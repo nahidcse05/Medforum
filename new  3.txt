@@ -1,0 +1,923 @@
+This is
+is my
+my car
+I have been
+D:\nahid\Medforum\.\data\json\eHealth\Panic_Attack\mr4xb-a-burning-pain-near-breastbone-t36067.json
+D:\nahid\Medforum\.\data\json\eHealth\Panic_Attack\mr4xb-about-to-faint-t15913.json
+D:\nahid\Medforum\.\data\json\eHealth\Panic_Attack\mr4xb-acid-reflex-cause-panic-attacks-t14487.json
+D:\nahid\Medforum\.\data\json\eHealth\Panic_Attack\mr4xb-acupuncturex-t27551.json
+D:\nahid\Medforum\.\data\json\eHealth\Panic_Attack\mr4xb-advice-on-how-to-stay-calm-and-not-panic-t30779.json
+D:\nahid\Medforum\.\data\json\eHealth\Panic_Attack\mr4xb-after-a-panic-attack-t39900.json
+Loading 6 json files from ./data/json/eHealth/Panic_Attack/
+
+Sorted Map......
+ i : 24
+i hav : 12
+and i : 8
+panic attack : 7
+do nt : 7
+i do : 7
+ it : 6
+i am : 5
+that i : 4
+it i : 4
+goes away : 4
+ all : 4
+loud nois : 4
+and it : 4
+comes back : 4
+nt know : 4
+of th : 3
+in a : 3
+ one : 3
+blood pressur : 3
+back  : 3
+for a : 3
+attack  : 3
+i can : 3
+have been : 3
+could nt : 3
+if you : 3
+a pan : 3
+ but : 3
+away  : 3
+like i : 3
+away then : 3
+again  : 3
+have a : 3
+i m : 3
+for th : 3
+ yr : 3
+i wa : 3
+i could : 3
+when i : 3
+feel lik : 3
+and went : 2
+if it : 2
+more  : 2
+antibiotic and : 2
+know anymor : 2
+  : 2
+day  : 2
+on klonopin : 2
+ve been : 2
+you should : 2
+i look : 2
+fact of : 2
+helped  : 2
+dr ran : 2
+symptoms  : 2
+it wa : 2
+ sometim : 2
+ been : 2
+ especi : 2
+ took : 2
+perfect  : 2
+hope again : 2
+had sinus : 2
+took antibiot : 2
+ mri : 2
+panic disord : 2
+to your : 2
+noises  : 2
+any long : 2
+but com : 2
+be sur : 2
+on for : 2
+nt stand : 2
+while on : 2
+but stil : 2
+you feel : 2
+been perfect : 2
+the worst : 2
+pressure  : 2
+get a : 2
+then i : 2
+does anyon : 2
+stand loud : 2
+that it : 2
+ due : 2
+eeg  : 2
+ thank : 2
+time wil : 2
+none  : 2
+back i : 2
+wanted to : 2
+all caus : 2
+anymore  : 2
+ran m : 2
+again but : 2
+infection  : 2
+xanax and : 2
+cymbalta help : 2
+ blood : 2
+have pan : 2
+depressents  : 2
+blood work : 2
+ct  : 2
+work  : 2
+head then : 2
+or in : 2
+it  : 2
+how am : 2
+i feel : 2
+if anyon : 2
+conversation that : 2
+up  : 2
+disoriented  : 2
+disorientation go : 2
+have tofocus : 2
+to fact : 2
+i gonna : 2
+but wgen : 2
+yrs  : 2
+ eeg : 2
+ you : 2
+i felt : 2
+on or : 2
+anti depress : 2
+i get : 2
+gonna funct : 2
+but i : 2
+then tird : 2
+of how : 2
+ is : 2
+do it : 2
+to th : 2
+deal with : 2
+one tim : 2
+away and : 2
+ xanax : 2
+happenin  : 2
+the last : 2
+ put : 2
+like a : 2
+me  : 2
+period of : 2
+last  : 2
+if i : 2
+will do : 2
+your doctor : 2
+can not : 2
+to deal : 2
+going to : 2
+put on : 2
+mri  : 2
+ and : 2
+in your : 2
+ ani : 2
+very exhaust : 2
+long convers : 2
+on that : 2
+wgen it : 2
+low blood : 2
+attacks or : 2
+like  : 2
+know if : 2
+room for : 2
+nullswimming head : 2
+i v : 2
+attacks for : 2
+all hav : 2
+been go : 2
+exhausting  : 2
+ ct : 2
+ do : 2
+ dr : 2
+for long : 2
+and loud : 2
+ disorient : 2
+cause wors : 2
+you experi : 2
+function  : 2
+worsing symptom : 2
+doctor if : 2
+of tim : 2
+went away : 2
+all anti : 2
+a few : 2
+it com : 2
+looked up : 2
+it go : 2
+a room : 2
+tofocus on : 2
+nt feel : 2
+ok but : 2
+in th : 2
+klonopin and : 2
+time had : 2
+going on : 2
+long period : 2
+tird  : 2
+have hop : 2
+me through : 2
+through al : 2
+and cymbalta : 2
+noises ok : 2
+due to : 2
+then disori : 2
+for  : 2
+been veri : 2
+the day : 2
+have non : 2
+am i : 2
+ almost : 2
+ while : 2
+sinus infect : 2
+still happenin : 2
+scared m : 2
+you  : 2
+rate if : 1
+area  : 1
+this b : 1
+to slow : 1
+my doctor : 1
+ what : 1
+non stop : 1
+my right : 1
+are hav : 1
+feels lik : 1
+surrounding ani : 1
+my lifealmost : 1
+where everyth : 1
+smyptom to : 1
+talking  : 1
+just wond : 1
+towards cent : 1
+since mi : 1
+exhaustion which : 1
+nullin th : 1
+and mvp : 1
+me pan : 1
+hardest smyptom : 1
+terrible and : 1
+myself thru : 1
+meanwhile b : 1
+a common : 1
+around m : 1
+in m : 1
+also  : 1
+more pan : 1
+im mal : 1
+panic  : 1
+mine i : 1
+in b : 1
+valve prolaps : 1
+which feel : 1
+racy heart : 1
+stressful ev : 1
+its lik : 1
+nullhi everyon : 1
+thru th : 1
+there i : 1
+from our : 1
+stress in : 1
+few year : 1
+felt a : 1
+panic so : 1
+stars i : 1
+been get : 1
+ major : 1
+give advic : 1
+a dream : 1
+for day : 1
+through mi : 1
+a migrain : 1
+my bodi : 1
+keeps happen : 1
+heart feel : 1
+both phys : 1
+i know : 1
+over i : 1
+causes butterfli : 1
+it mak : 1
+i said : 1
+and took : 1
+have suff : 1
+no known : 1
+s not : 1
+to know : 1
+relax until : 1
+that  : 1
+today and : 1
+is wrong : 1
+my mind : 1
+inflammatory bowel : 1
+the stor : 1
+nerve or : 1
+faint sit : 1
+anxious and : 1
+so do : 1
+nullpanic attack : 1
+was stand : 1
+with a : 1
+know wher : 1
+yr old : 1
+get lik : 1
+bowel diseas : 1
+come up : 1
+its hard : 1
+the episod : 1
+explain it : 1
+its th : 1
+ rib : 1
+ doe : 1
+pressure ar : 1
+attacks run : 1
+other peopl : 1
+find th : 1
+ hour : 1
+nullhi i : 1
+well known : 1
+days in : 1
+more anxieti : 1
+there ar : 1
+beneficial  : 1
+same a : 1
+sensation com : 1
+severe pan : 1
+reflex can : 1
+do tak : 1
+instant burn : 1
+am complet : 1
+pathology  : 1
+exercise caut : 1
+answering  : 1
+have had : 1
+debating if : 1
+i kinda : 1
+life  : 1
+drop in : 1
+event can : 1
+and panicki : 1
+the attack : 1
+what  : 1
+feel faint : 1
+its ov : 1
+now and : 1
+seeing lik : 1
+in stomach : 1
+to m : 1
+standing and : 1
+feeling stomach : 1
+hypotension  : 1
+am sick : 1
+maybe se : 1
+or anyth : 1
+when answ : 1
+ when : 1
+than pan : 1
+migraine  : 1
+i had : 1
+should report : 1
+limited  : 1
+about  : 1
+run away : 1
+ treatment : 1
+body or : 1
+over mi : 1
+ then : 1
+breastbone  : 1
+having sever : 1
+a nerv : 1
+butterflies in : 1
+row  : 1
+time  : 1
+even finish : 1
+is a : 1
+by oth : 1
+where i : 1
+gather myself : 1
+extremely tir : 1
+with hypotens : 1
+i keep : 1
+know  : 1
+which obvi : 1
+or if : 1
+disorder ther : 1
+could it : 1
+hydrated  : 1
+and talk : 1
+nullthey ar : 1
+left m : 1
+i find : 1
+ that : 1
+pace  : 1
+die it : 1
+crap  : 1
+fell forwad : 1
+happening lol : 1
+up through : 1
+much  : 1
+for low : 1
+so tir : 1
+attack of : 1
+done anyth : 1
+be im : 1
+personally  : 1
+you want : 1
+any way : 1
+nullhow do : 1
+way of : 1
+not sleep : 1
+get th : 1
+is benefici : 1
+panicky and : 1
+play sick : 1
+to exercis : 1
+squatting posit : 1
+breast  : 1
+as much : 1
+when th : 1
+question surround : 1
+nt relat : 1
+i saw : 1
+feel thi : 1
+completely exhaust : 1
+m debat : 1
+when did : 1
+feels real : 1
+anyone ha : 1
+panicanxity attack : 1
+summer heat : 1
+see your : 1
+want to : 1
+am go : 1
+main symptom : 1
+woman  : 1
+know whi : 1
+think you : 1
+people clam : 1
+now a : 1
+sounds lik : 1
+do hav : 1
+away from : 1
+slow mi : 1
+like norm : 1
+you may : 1
+a row : 1
+sometimes when : 1
+to gath : 1
+mind know : 1
+i nev : 1
+bad pan : 1
+bat for : 1
+last long : 1
+had play : 1
+ moment : 1
+awful th : 1
+and a : 1
+a block : 1
+depression and : 1
+and feel : 1
+stars when : 1
+or back : 1
+the raci : 1
+the first : 1
+and mor : 1
+the cas : 1
+is in : 1
+major stress : 1
+kinda fel : 1
+a step : 1
+sometimes mi : 1
+the dream : 1
+day at : 1
+on how : 1
+can liter : 1
+one of : 1
+symptom with : 1
+is often : 1
+so to : 1
+heart burn : 1
+prolapse  : 1
+abnormal sinc : 1
+block or : 1
+my main : 1
+when ris : 1
+if acid : 1
+our job : 1
+feel tir : 1
+hard to : 1
+are mani : 1
+things and : 1
+literally feel : 1
+mitral valv : 1
+i glanc : 1
+panic and : 1
+moments i : 1
+will hav : 1
+was becaus : 1
+the sam : 1
+on mi : 1
+days for : 1
+makes m : 1
+took a : 1
+experience acid : 1
+is wel : 1
+agree  : 1
+i eat : 1
+the breast : 1
+copying with : 1
+like someth : 1
+at work : 1
+a  : 1
+true also : 1
+feel just : 1
+the pan : 1
+or depress : 1
+take atenteol : 1
+m concurr : 1
+seat on : 1
+center  : 1
+took about : 1
+doctor told : 1
+or two : 1
+it scar : 1
+why  : 1
+long if : 1
+any git : 1
+weight  : 1
+i wil : 1
+heart rat : 1
+beaten with : 1
+actual heart : 1
+before or : 1
+was beaten : 1
+a funni : 1
+ breath : 1
+go se : 1
+funny feel : 1
+informations shar : 1
+or so : 1
+finish th : 1
+just ment : 1
+now that : 1
+to run : 1
+try to : 1
+keep think : 1
+laying in : 1
+experience it : 1
+suddenly i : 1
+was terr : 1
+im scaredpan : 1
+am and : 1
+nt get : 1
+knows i : 1
+an inst : 1
+like you : 1
+felt on : 1
+any oth : 1
+not breath : 1
+no wa : 1
+over weight : 1
+or i : 1
+is th : 1
+ im : 1
+ in : 1
+ pleas : 1
+attacks  : 1
+saw them : 1
+circle ev : 1
+bad or : 1
+with with : 1
+attacks to : 1
+ person : 1
+like myself : 1
+anything befor : 1
+or aft : 1
+very tru : 1
+on som : 1
+from a : 1
+you ar : 1
+this occur : 1
+problems  : 1
+ironically th : 1
+it happen : 1
+forwad  : 1
+it b : 1
+lifealmost  : 1
+hours of : 1
+dream and : 1
+and  : 1
+after  : 1
+of caus : 1
+be kind : 1
+has ani : 1
+ go : 1
+on a : 1
+certain th : 1
+a seat : 1
+years now : 1
+until th : 1
+worst sid : 1
+because it : 1
+chickenandegg quest : 1
+what could : 1
+everything around : 1
+i think : 1
+not gonna : 1
+nullyesterday i : 1
+ there : 1
+ low : 1
+step a : 1
+treatment opt : 1
+anyone feel : 1
+hope thi : 1
+pretty much : 1
+right sid : 1
+felt bad : 1
+ not : 1
+trigger mor : 1
+really weird : 1
+could thi : 1
+at norm : 1
+or squat : 1
+i just : 1
+in lif : 1
+ no : 1
+i notic : 1
+me feel : 1
+symptom which : 1
+of someon : 1
+the breastbon : 1
+wrong  : 1
+rising from : 1
+ mi : 1
+few  : 1
+the stress : 1
+an aw : 1
+almost iron : 1
+caution when : 1
+causes mor : 1
+kind when : 1
+suffered from : 1
+i liter : 1
+it keep : 1
+obviously caus : 1
+ribs to : 1
+other problem : 1
+myself  : 1
+common symptom : 1
+calm and : 1
+ an : 1
+this  : 1
+they ar : 1
+this to : 1
+someone scar : 1
+light duti : 1
+glanced away : 1
+looks and : 1
+rememember i : 1
+is such : 1
+work today : 1
+reduce th : 1
+notice mayb : 1
+a mitr : 1
+of copi : 1
+git patholog : 1
+been hav : 1
+the hardest : 1
+can caus : 1
+ see : 1
+my heart : 1
+never felt : 1
+old woman : 1
+well hydr : 1
+is nt : 1
+stomach when : 1
+them again : 1
+you hav : 1
+did you : 1
+im just : 1
+really get : 1
+heat  : 1
+store and : 1
+deep and : 1
+muscle im : 1
+acid reflux : 1
+feel anxi : 1
+is and : 1
+your mid : 1
+was go : 1
+and relax : 1
+the meanwhil : 1
+days pretti : 1
+and ment : 1
+passes  : 1
+warm sens : 1
+down now : 1
+again when : 1
+that mild : 1
+nexium again : 1
+down  : 1
+helps  : 1
+can br : 1
+the nexium : 1
+s veri : 1
+so b : 1
+related to : 1
+be a : 1
+burn  : 1
+to stay : 1
+me to : 1
+or muscl : 1
+tiring both : 1
+anxiety in : 1
+your blood : 1
+happened at : 1
+bed and : 1
+occurs again : 1
+sick and : 1
+should get : 1
+having them : 1
+mvp  : 1
+your med : 1
+first tim : 1
+not ov : 1
+to b : 1
+such an : 1
+with min : 1
+effects of : 1
+shared bi : 1
+mild stress : 1
+nulli agre : 1
+told m : 1
+ toward : 1
+are extrem : 1
+mid back : 1
+two away : 1
+of thi : 1
+caused thi : 1
+a sit : 1
+normal pac : 1
+bad attack : 1
+as i : 1
+thing to : 1
+its been : 1
+i should : 1
+are tak : 1
+a day : 1
+episode pass : 1
+getting down : 1
+stop and : 1
+exhausted  : 1
+are veri : 1
+and if : 1
+anyone know : 1
+especially in : 1
+back area : 1
+nullthat  : 1
+dream lik : 1
+and sudden : 1
+anyone can : 1
+the summ : 1
+especially if : 1
+a chickenandegg : 1
+taking ov : 1
+me so : 1
+known ani : 1
+report thi : 1
+bring on : 1
+to di : 1
+stomach  : 1
+breath deep : 1
+ day : 1
+position  : 1
+to explain : 1
+wondering if : 1
+claming th : 1
+just look : 1
+have nt : 1
+if thi : 1
+just want : 1
+much non : 1
+very depressesanxi : 1
+what might : 1
+can giv : 1
+me lik : 1
+way aft : 1
+ other : 1
+ keep : 1
+how to : 1
+ star : 1
+it again : 1
+this way : 1
+everything just : 1
+them for : 1
+some inflammatori : 1
+might of : 1
+to reduc : 1
+tired lik : 1
+almost lik : 1
+nt done : 1
+anything can : 1
+this help : 1
+from panicanx : 1
+keeping wel : 1
+a drop : 1
+eat certain : 1
+physically and : 1
+after you : 1
+myself everyth : 1
+side of : 1
+minutes or : 1
+nullso i : 1
+atenteol for : 1
+attacks ar : 1
+panic a : 1
+case of : 1
+as they : 1
+me or : 1
+sure if : 1
+this crap : 1
+thank you : 1
+run i : 1
+a bat : 1
+lately  : 1
+after bad : 1
+ minut : 1
+also feel : 1
+job sit : 1
+a bad : 1
+panic mor : 1
+a warm : 1
+feel aft : 1
+or what : 1
+thinking i : 1
+and not : 1
+as you : 1
+sick or : 1
+seeing star : 1
+and now : 1
+male  : 1
+everyone  : 1
+was lay : 1
+not pan : 1
+are limit : 1
+disorder and : 1
+pain what : 1
+had a : 1
+can trigg : 1
+have wher : 1
+am real : 1
+these attack : 1
+drained it : 1
+of pan : 1
+getting th : 1
+scaredpanic could : 1
+it took : 1
+duty myself : 1
+many inform : 1
+depressesanxious l : 1
+please remememb : 1
+mentally drain : 1
+and left : 1
+diseases  : 1
+worst circl : 1
+acid reflex : 1
+the exhaust : 1
+should tri : 1
+medication  : 1
+known that : 1
+more and : 1
+tired i : 1
+stay calm : 1
+reflux for : 1
+often a : 1
+may hav : 1
+i hop : 1
+m a : 1
+cause pan : 1
+sure that : 1
+weird to : 1
+with  : 1
+nt even : 1
+breathe and : 1
+other than : 1
+gonna last : 1
+side effect : 1
+advice on : 1
+like actu : 1
+with thes : 1
+feeling mor : 1
+options for : 1
+sleep a : 1
+burning pain : 1
+something i : 1
+nullyes  : 1
+i also : 1
+said no : 1
+if so : 1
+do you : 1
+normally but : 1
+literally w : 1
+site and : 1
+nullit sound : 1
+stress caus : 1
+sitting or : 1
+concurrent day : 1
+mentally  : 1
+feels abnorm : 1
+sit down : 1
+and light : 1
